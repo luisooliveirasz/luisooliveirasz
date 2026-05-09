@@ -25,10 +25,3 @@
 </div>
 
 ---
-
-## Estatísticas
-
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=luisooliveirasz&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisooliveirasz&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
