@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luisooliveirasz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lu%C3%ADs-fernando-45830b240/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luisooliveirasz)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luis.oliveira27@usp.br)
 
@@ -30,10 +30,7 @@
 
 ## 📊 Estatísticas
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=luisooliveirasz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisooliveirasz&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=luisooliveirasz&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisooliveirasz&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
