@@ -13,9 +13,4 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisooliveirasz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisooliveirasz&layout=compact&theme=tokyonight&langs_count=8"/>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisooliveirasz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
