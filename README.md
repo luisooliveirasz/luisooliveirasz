@@ -1,4 +1,5 @@
 🎓 Estudante de Bacharelado em Ciências de Computação no ICMC/USP São Carlos
+
 💻 Interesse em Desenvolvimento de Software, Desenvolvimento de Jogos e Computação Gráfica
 
 <div align="center">
