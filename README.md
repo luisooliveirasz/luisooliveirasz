@@ -1,9 +1,9 @@
-🎓 Estudante de **Bacharelado em Ciências de Computação** no **ICMC/USP São Carlos**  
-💻 Interesse em **Desenvolvimento de Software**, **Game Development** e **Computação Gráfica**
+🎓 Estudante de Bacharelado em Ciências de Computação no ICMC/USP São Carlos
+💻 Interesse em Desenvolvimento de Software, Desenvolvimento de Jogos e Computação Gráfica
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luisooliveirasz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lu%C3%ADs-fernando-45830b240/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luisooliveirasz)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luis.oliveira27@usp.br)
 
