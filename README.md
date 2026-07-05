@@ -1,6 +1,13 @@
-🎓 Estudante de Bacharelado em Ciências de Computação no ICMC/USP São Carlos
+##Olá 👋
 
-💻 Interesse em Desenvolvimento de Software, Desenvolvimento de Jogos e Computação Gráfica
+Sou estudante de Bacharelado em Ciências de Computação no ICMC/USP São Carlos
+
+Tenho interesse em:
+- 🎮 Desenvolvimento de Jogos
+- 💻 Desenvolvimento de Software
+- 🤖 Machine Learning e Inteligência Artificial
+- 🎨 Computação Gráfica
+- ⚙️ Algoritmos e Otimização
 
 <div align="center">
 
